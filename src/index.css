@@ -1,0 +1,21 @@
+
+.buttonEvent{
+  width: 90%;
+  margin: auto;
+}
+.buttonEvent ul{
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.buttonEvent ul button{
+  width: 100px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.activebutton{
+  background-color: red;
+  color: white;
+}
